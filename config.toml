@@ -1,11 +1,11 @@
 # Basic information
-baseURL = 'https://taixhi.github.io/website-template' # Should be updated to your domain
+baseURL = 'https://danicavu.github.io/website' # Should be updated to your domain
 languageCode = 'en-us'
 theme="archie"
 
 # Metadata to edit
-title = 'Austin'
-copyright = "© Austin"
+title = 'Danica Vu'
+copyright = "© Danica Vu"
 blogTitle='Check out my blog:'
 
 # For code highlighting
@@ -14,15 +14,11 @@ pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
 # Social media for footer icons, could add more
-[[params.social]]
-name = "Instagram"
-icon = "instagram"
-url = "https://instagram.com/amherstcollege"
 
 [[params.social]]
-name = "Twitter"
-icon = "twitter"
-url = "https://twitter.com/amherstcollege"
+name = "Linkedin"
+icon = "linkedin"
+url = "https://www.linkedin.com/in/danicavu/"
 
 # Menu items
 [[menu.main]]
