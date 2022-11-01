@@ -27,7 +27,7 @@ url = "/"
 weight = 1 # lower number sorts them to the left
 
 [[menu.main]]
-name = "blog"
+name = "Blog"
 url = "/posts"
 weight = 2
 
