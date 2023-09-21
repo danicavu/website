@@ -1,3 +1,2 @@
-# website
-Danica Vu
-Amherst College '24
+# Danica Vu
+Economics @ Amherst College '24
