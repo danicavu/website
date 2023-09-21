@@ -2,7 +2,7 @@
 title="About"
 +++
 
-Hello! My name is Danica.
+Hello! My name is Danica Vu.
 # Title
 ## Subtitle
 [Link name](https://google.com)
